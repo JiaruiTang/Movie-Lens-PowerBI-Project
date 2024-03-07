@@ -1,6 +1,6 @@
 # MovieLens "Movie Talkies: Classic" Edition Analysis
 
-<img scr="https://github.com/JiaruiTang/Movie-Lens-PowerBI-Project/lens-826308_1920.jpg" width="250">
+<img src="https://github.com/JiaruiTang/Movie-Lens-PowerBI-Project/blob/59037f4891ece15bb188a1ed4059c27e28823efa/lens-826308_1920.jpg" width="50%" />
 
 ## Overview
 This project analyzes classic movies (released until the year 2000) for MovieLens, a company specializing in providing comprehensive online databases of films, TV series, and streaming content. The analysis in this project belongs to the "Movie Talkies: Classic" edition, which aims to engage classic movie enthusiasts and attract new viewers by offering insights into the characteristics of these movies, user interests, and how demographics relate to movie ratings.
@@ -28,6 +28,5 @@ The PowerBI dashboard addresses the following questions:
 
 ### Online
 The report is also available online for direct viewing through your web browser. Click the following link to access the report:
-
 [View MovieLens Classic Edition Report Online](https://app.powerbi.com/view?r=eyJrIjoiMzE5OGJkZWYtMDE5YS00NzU0LWFhNDgtMjhhNjcxZDM2YjYwIiwidCI6IjU4YjNkNTRmLTE2YzktNDJkMy1hZjA4LTFmY2FiZDA5NTY2NiIsImMiOjF9)
 
