@@ -1,6 +1,6 @@
 # MovieLens "Movie Talkies: Classic" Edition Analysis
 
-![MovieLens Classic](lens-826308_1920.jpg)
+![MovieLens Classic](lens-826308_1920.jpg){width=50%}
 
 ## Overview
 This project analyzes classic movies (released until the year 2000) for MovieLens, a company specializing in providing comprehensive online databases of films, TV series, and streaming content. The analysis in this project belongs to the "Movie Talkies: Classic" edition, which aims to engage classic movie enthusiasts and attract new viewers by offering insights into the characteristics of these movies, user interests, and how demographics relate to movie ratings.
